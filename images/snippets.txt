@@ -1,3 +1,7 @@
-0x01_RCC-clock_01.png
+Embedded Reverse Engineering Course (Chapter 1: Memory Map) - This chapter covers the basics of understanding the STM32F401 memory map for the STM32F4 ARM architecture. #ReverseEngineering https://github.com/mytechnotalent/Embedded-Reverse-Engineering
+
+Embedded Reverse Engineering Course (Chapter 2: Clock) - This chapter covers the basics of understanding the STM32F401 clock for the STM32F4 ARM architecture. #ReverseEngineering https://github.com/mytechnotalent/Embedded-Reverse-Engineering
+
+000001_RCC-clock_01.png
 Working with an Embedded ARM STM32F4 series microcontroller, the very first thing we need to do if we are going to use a GPIO, say GPIOA, is to enable the RCC default 16 MHz, HSI internal clock. #ReverseEngineering https://github.com/mytechnotalent/Embedded-Reverse-Engineering
 
